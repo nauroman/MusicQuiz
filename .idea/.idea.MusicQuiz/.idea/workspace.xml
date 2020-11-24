@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="086f132e-acf9-4e0c-8e8d-29260191f053" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/734F0376-E2F2-48EB-86A4-0D3DD4ED8C0E/2e/3c01d61a/Texture2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MusicQuiz/Begin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MusicQuiz/Preloaders/Texture2DPreloader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MusicQuiz/Preloaders/AudioClipPreloader.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Scenes/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Scenes/Playlists.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Quiz/Playlists.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Data/Playlist.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Data/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Data/PlaylistsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/PlaylistsScreen/PlaylistItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/PlaylistsScreen/PlaylistsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Data/PlaylistsViewData.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/States/SelectedScreenState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/PlaylistsScreen/SelectedScreenState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/PlaylistsScreen/SetActiveByScreenState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/PlaylistsScreen/ActiveByScreenState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/ActiveByScreenState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreen/SelectedPlaylist.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreen/PlaylistItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/SelectedQuestion.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Preloaders/Preloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Preloaders/TexturePreloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/SelectedScreenState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/AnswerItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/AnswersView.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/ChoiceItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/ActiveByAnswerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/SelectedAnswerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreen/PlaylistsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/QuizScreenItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreen/PlaylistScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/ChoicesView.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreen/QuizScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreens/SelectedPlaylist.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreens/SelectedQuestion.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Data/Playlists.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreens/QuizScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Preloaders/Texture2DPreloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Preloaders/AudioClipPreloader.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreens/PlaylistsView.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreens/PlaylistsViewData.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/PlaylistsScreens/PlaylistScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Begin.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/ResultScreens/ResultScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/MusicQuiz/Screens/QuizScreens/ChoicesView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kZ3s1PsbxUfjaMdYDbG207ujGL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34995976" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30008045" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="119652">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="119652" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086f132e-acf9-4e0c-8e8d-29260191f053" name="Default Changelist" comment="" />
+      <created>1605894488751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605894488751</updated>
+      <workItem from="1605894505433" duration="15000" />
+      <workItem from="1605894900220" duration="45000" />
+      <workItem from="1605894989932" duration="38714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="515" height="464" key="DebuggerActiveHint" timestamp="1605923236680">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="515" height="464" key="DebuggerActiveHint/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1605923236680" />
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.0.center" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.0.left" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.0.right" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.0.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.1.center" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.1.left" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.1.right" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.1.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.2.bottom" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.2.center" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.2.left" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.2.right" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.2.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.3.bottom" timestamp="1606164077094">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.bottom/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077094" />
+    <state width="2517" height="519" key="GridCell.Tab.3.center" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.center/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.3.left" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.left/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state width="2517" height="519" key="GridCell.Tab.3.right" timestamp="1606164077093">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="519" key="GridCell.Tab.3.right/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1606164077093" />
+    <state x="4622" y="346" key="SettingsEditor" timestamp="1605895182626">
+      <screen x="3840" y="0" width="2560" height="1400" />
+    </state>
+    <state x="4622" y="346" key="SettingsEditor/0.0.2560.1400/3840.0.2560.1400@3840.0.2560.1400" timestamp="1605895182626" />
+  </component>
+</project>
